@@ -8,9 +8,10 @@ import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args){
-        SummaryRangernumber s = new SummaryRangernumber();
-        int[] arr = {0,1,2,4,5,7};
-        System.out.println(s.summaryRanges(arr));
+        String s = "world";
+        String v = "ad";
+        MaximumNumbersOfWordsYouCanType t = new MaximumNumbersOfWordsYouCanType();
+        System.out.println(s.indexOf(v.charAt(0)));
     }
 }
 
